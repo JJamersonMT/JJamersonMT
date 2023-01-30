@@ -38,7 +38,7 @@
 <div> 
   <a href="https://www.instagram.com/JamersonMT/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jamersonmt15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "mailto:jamersonmt15@gmail.com"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<a href = "https://www.linkedin.com/in/jos%C3%A9-jamerson-7923771a9/"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
   
 </div>
 
