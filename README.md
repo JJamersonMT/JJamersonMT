@@ -2,7 +2,7 @@
 
 
  <div align="left">
-  <p style=" text-transform:capitalize; color:white;font-weight:bold; background-color:orange; border-radius:5px;display:inline-block;padding:3px;opacity:0.7;" >👨‍🎓 Estudande de Sistemas Para Internet</p>
+  <p style=" text-transform:capitalize; color:white;font-weight:bold; background-color:orange; border-radius:5px;display:inline-block;padding:3px;opacity:0.7;" >👨‍🎓 Cursando Sistemas Para Internet</p>
 
  <p style="text-transform:capitalize; color:white;font-weight:bold; background-color:orange; border-radius:5px;display:inline-block;padding:3px;opacity:0.7;" >😍 estudando back-end</p>
  
