@@ -1,6 +1,5 @@
 # Seja Bem Vindo  💥💥
 
-
  <div align="left">
   <p style=" text-transform:capitalize; color:white;font-weight:bold; background-color:orange; border-radius:5px;display:inline-block;padding:3px;opacity:0.7;" >👨‍🎓 Cursando Sistemas Para Internet</p>
 
